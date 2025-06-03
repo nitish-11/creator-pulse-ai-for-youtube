@@ -13,7 +13,7 @@ Analyze your video comments and understand your audience in seconds.
 
 ## 🔗 Demo Links
 
-- 📹 YouTube Demo: [Watch here](*********************)
+- 📹 YouTube Demo: [Watch here (Soon)](*********************)
 - 🧠 Word2Vec Skip-Gram Model: [Hosted on Hugging space](https://huggingface.co/spaces/nitish-11/skipgram-word2vec-model-with-youtube-comments)
 
 ---
@@ -21,10 +21,12 @@ Analyze your video comments and understand your audience in seconds.
 
 ## 🖼️ Screenshots
 
-Replace with your image paths:
-
+**🎬 Input Video Page — Dashboard UI**
 ![Dashboard Screenshot](images/input_video_page.png)
+
+**🧠 Skip-gram Word2Vec (200-D) — Model Structure**
 ![Skipgram Word2Vec-200 Dimensional Model](images/word2vec_model.png)
+
 
 ---
 
@@ -121,9 +123,8 @@ Replace with your image paths:
 ## 📬 Coming Soon
 
 - 🧾 PDF Export Feature  
-- 🎯 Multi-video comparison dashboard  
-- 🧠 Emotion classification beyond sentiment
-
+- 🎯 Improving the Model on Multi-language comments analysis
+- 🧠 Reduce the Latency even more
 ---
 
 **Made with ❤️ for creators who care.**  
