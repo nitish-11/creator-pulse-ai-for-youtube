@@ -40,7 +40,7 @@ Analyze your video comments and understand your audience in seconds.
 
 **📊 Overall Viewer Sentiment in Response to Your Video**  
 *High-level breakdown of viewer reactions.*  
-![Overall Sentiment](images/sentiment_analysis.png)
+![Overall Sentiment](images/sentiment_analyis.png)
 
 ---
 
