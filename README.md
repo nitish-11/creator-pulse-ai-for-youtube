@@ -15,20 +15,34 @@ Analyze your video comments and understand your audience in seconds.
 
 - 📹 YouTube Demo: [Watch here (Soon)](*********************)
 - 🧠 Word2Vec Skip-Gram Model: [Hosted on Hugging space](https://huggingface.co/spaces/nitish-11/skipgram-word2vec-model-with-youtube-comments)
-
+-  AWS Deployed Version: [Will be out Soon](*****************)
 ---
 
 
 ## 🖼️ Screenshots
 
-**🎬 Input Video Page — Dashboard UI**
+**🎬 Video Input & Dashboard Overview**  
+*Streamlined interface for YouTube video analysis.*
 ![Dashboard Screenshot](images/input_video_page.png)
 
-**🧠 Skip-gram Word2Vec (200-D) — Model Structure**
+**🧠 Word2Vec Skip-Gram (200-D) Visualization**  
+*Token embedding structure used in early-stage model experimentation.*
 ![Skipgram Word2Vec-200 Dimensional Model](images/word2vec_model.png)
 
+**💬 Comment Insights via LangChain + Gemini**  
+*Automated theme extraction and comment summarization.*
+![Comment Detail: using langchain](images/comment_details.png)
+
+**📈 Sentiment Trends Over Time**  
+*Track audience sentiment on a daily and weekly basis.*
+![Trending Tracking](images/trend_tracking.png)
+
+**📊 Overall Sentiment Distribution**  
+*High-level breakdown of viewer reactions to your video.*
+![Overall Sentiment ](images/sentiment_analyis.png)
 
 ---
+
 
 ## 🛠️ How It Works
 
