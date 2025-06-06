@@ -13,7 +13,7 @@ Analyze your video comments and understand your audience in seconds.
 
 ## 🔗 Demo & Model Links
 
-- 📹 YouTube Demo: [Watch here (Coming Soon)](*********************)
+- 📹 YouTube Demo: [Watch here](https://youtu.be/rjabLoAOs18?si=GkVGK265avpdMNq5)
 - 🧠 Word2Vec Skip-Gram Model: [View on Hugging Face](https://huggingface.co/spaces/nitish-11/skipgram-word2vec-model-with-youtube-comments)
 - ☁️ AWS Deployed Version: [Coming Soon](*****************)
 - 🧠 Fine-tuned BERT Model: [View on Hugging Face](https://huggingface.co/nitish-11/youtube_sentiment_analysis_bert)
